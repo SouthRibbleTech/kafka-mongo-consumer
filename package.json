@@ -1,0 +1,18 @@
+{
+  "name": "twitter_mysql_consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^1.9.3",
+    "knex": "^0.19.1",
+    "mongodb": "^3.3.0-beta2",
+    "mysql": "^2.17.1"
+  }
+}
