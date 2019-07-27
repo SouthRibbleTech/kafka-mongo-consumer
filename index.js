@@ -1,6 +1,6 @@
 const { Kafka } = require('kafkajs')
 var MongoClient = require('mongodb').MongoClient
-var mongoUrl = 'mongodb://root:example@ubuntu:27017'
+var mongoUrl = 'mongodb://root:example@localhost:27017'
 
 const kafka = new Kafka({
   clientId: 'mysql_twitter',
