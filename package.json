@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "kafkajs": "^1.9.3",
-    "knex": "^0.19.1",
+    "knex": "^2.4.0",
     "mongodb": "^3.3.0-beta2",
     "mysql": "^2.17.1"
   }
